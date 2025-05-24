@@ -4,3 +4,6 @@
   </a>
 </p>
 
+```Java
+System.out.println("Hello, CoSSA!");
+```
